@@ -1,0 +1,1 @@
+module.exports = function(whatIHave, theChoosenOne) { return whatIHave === theChoosenOne; }
